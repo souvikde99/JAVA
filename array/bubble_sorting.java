@@ -1,6 +1,6 @@
 package array;
 import java.util.*;
-public class sorting {
+public class bubble_sorting {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
